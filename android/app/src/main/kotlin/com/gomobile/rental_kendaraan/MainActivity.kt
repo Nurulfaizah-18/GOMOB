@@ -1,4 +1,4 @@
-package com.gomobile.rental_kendaraan
+package com.gomobile.rentalkendaraan
 
 import io.flutter.embedding.android.FlutterActivity
 
